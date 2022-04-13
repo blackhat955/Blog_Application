@@ -1,0 +1,12 @@
+how to set enviroment variable and set the hole project ==================>
+1-python -m enev name_of_enviroment 
+get inside of the enviroment =======================================>
+env_name\Script\activate.bat  
+after get in the enviroment =============================>
+instal django by using command ==========================>
+pip install django  
+then run command to get the project ========================>
+django-admin startproject name_project 
+then you may get in vs code code 
+for creating app inside the project =======================>
+python manage.py startapp name_app  
